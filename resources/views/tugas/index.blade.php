@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>To-Do App</title>
+    <title>my To-Do App</title>
 
     {{-- Tailwind CDN --}}
     <script src="https://cdn.tailwindcss.com"></script>
